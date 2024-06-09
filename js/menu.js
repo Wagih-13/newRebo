@@ -1,11 +1,3 @@
-
-var swiper = new Swiper(".Slider-container", {
-  effect: "cards",
-  grabCursor: true,
-  centerdSlides: true,
-  loop: true,
-});
-
 // swiper.changeDirection('vertical');
 
 async function fetchData() {
@@ -73,6 +65,12 @@ async function getData() {
   }
 
   document.getElementById("test").innerHTML = htmlTagsContainer;
+  let swiper = new Swiper(".Slider-container", {
+    effect: "cards",
+    grabCursor: true,
+    centerdSlides: true,
+    loop: true,
+  });
 }
 
 getData();
