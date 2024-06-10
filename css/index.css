@@ -78,6 +78,7 @@ ul {
   align-items: center;
   width: 100%;
   margin-top: 50px;
+  margin-bottom: 50px;
   animation: upDown 1.7s linear infinite;
   -webkit-animation: upDown 1.7s linear infinite;
 }
@@ -140,7 +141,7 @@ ul {
 
 @media (max-width: 1200px) {
   .home .container {
-    margin-top: 40px;
+    margin-top: 20px;
   }
   .home .container .overLay .title h1 {
     font-size: 100px;

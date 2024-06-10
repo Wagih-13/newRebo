@@ -15,52 +15,72 @@ async function getData() {
   }
 
   const categories = [
-    { group: "vip", name: "VIP" },
-    { group: "اباطايزر", name: "Appetizers" },
-    { group: "اضافات", name: "Additions" },
-    { group: "اضافات - ADDITIONS", name: "Additions (Arabic)" },
-    { group: "الركن الشارقي", name: "Sharky" },
-    { group: "الشاي والاعشاب - TEA AND HERBS", name: "Drinks" },
+    {
+      group: "vip",
+      name: "VIP",
+      imgUrl: "./images/Vip.png",
+    },
+    {
+      group: "اباطايزر",
+      name: "Appetizers",
+      imgUrl: "./images/Appetizers.png",
+    },
+    {
+      group: "اضافات",
+      name: "Additions",
+      imgUrl: "./images/Additions.png",
+    },
+    {
+      group: "اضافات - ADDITIONS",
+      name: "Drink aditions",
+      imgUrl: "./images/iceCreem.png",
+    },
+    { group: "الركن الشارقي", name: "Sharky", imgUrl: "./images/eastFood.png" },
+    {
+      group: "الشاي والاعشاب - TEA AND HERBS",
+      name: "Drinks",
+      imgUrl: "./images/drinks.png",
+    },
   ];
 
   let htmlTagsContainer = "";
 
-  for (const { group, name } of categories) {
+  for (const { group, name, imgUrl } of categories) {
     const items = allData.Sheet1.filter((element) => element.group === group);
 
     const itemRows = items.map(
       (element) =>
-        `<tr> 
-        <td>${element.name}</td>
-        <td>${element.size}</td>
-        <td>${element.price}</td>
-      </tr>`
+        `
+      <div class="rowContainer">
+        <div class="infoContainer">
+          <span>${element.name}</span>
+          <span>${element.price}</span>
+          <span>${element.englishName}</span>
+        </div>
+        <div class="components">
+          ${element.components !== undefined ? element.components : ""}
+        </div>
+      </div>
+      `
     );
 
     htmlTagsContainer += `
-      <div class="swiper-slide">
-        <div class="swipContainer">
-          <div class="tableContainer">
-            <div class="photoContainer">
-              <h1>${name}</h1>
-              <img
-                src="./images/Blackberries milk splash floating -10.png"
-                alt=""
-              />
-            </div>
-            <table>
-              <thead>
-                <th>Name</th>
-                <th>Size</th>
-                <th>Price</th>
-              </thead>
-              <tbody>
+        <div class="swiper-slide">
+            <div class="swipContainer">
+              <div class="tableContainer">
+                <div class="photoContainer">
+                  <h1>${name}</h1>
+                  <img
+                    src="${imgUrl}"
+                    alt=""
+                  />
+                </div>
+                <div class="cardContainer">
                 ${itemRows.join("")}
-              </tbody>
-            </table>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
     `;
   }
 
@@ -70,7 +90,13 @@ async function getData() {
     grabCursor: true,
     centerdSlides: true,
     loop: true,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
   });
+
+ 
 }
 
 getData();

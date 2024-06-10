@@ -5,3332 +5,4284 @@
       "size": "وسط",
       "price": 40,
       "name": "بيض بالجبنة",
-      "id": 1
+      "id": 1,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 45,
       "name": "بيض بسطرمة",
-      "id": 2
+      "id": 2,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 40,
       "name": "بيض شكشوكة",
-      "id": 3
+      "id": 3,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 35,
       "name": "حلاوة بالقشطة",
-      "id": 4
+      "id": 4,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 25,
       "name": "حلاوة سادة",
-      "id": 5
+      "id": 5,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 15,
       "name": "زبادي رايب صغير",
-      "id": 6
+      "id": 6,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 9,
       "name": "زبادي سادة",
-      "id": 7
+      "id": 7,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 17,
       "name": "زبادي فراولة صغير",
-      "id": 8
+      "id": 8,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 80,
       "name": "سحور برايسو ",
-      "id": 9
+      "id": 9,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 35,
       "name": "لانشون حلواني",
-      "id": 10
+      "id": 10,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 35,
       "name": "مربى بالقشطة",
-      "id": 11
+      "id": 11,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 25,
       "name": "مربى سادة ",
-      "id": 12
+      "id": 12,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "vip",
       "size": "وسط",
       "price": 50,
       "name": "ميكس جبن ",
-      "id": 13
+      "id": 13,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 35,
       "name": "بطاطس",
-      "id": 14
+      "id": 14,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 60,
       "name": "بطاطس تشيلي تشيز فرايز",
-      "id": 15
+      "id": 15,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 45,
       "name": "بطاطس كرسبي",
-      "id": 16
+      "id": 16,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 40,
       "name": "بوب كورن",
-      "id": 17
+      "id": 17,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 80,
       "name": "بوكس السعاده",
-      "id": 18
+      "id": 18,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 45,
       "name": "تشيز فرايز",
-      "id": 19
+      "id": 19,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 60,
       "name": "تشيز فرايز ببروني",
-      "id": 20
+      "id": 20,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 60,
       "name": "تشيز فرايز بسطرمة",
-      "id": 21
+      "id": 21,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 60,
       "name": "تشيز فرايز فراخ",
-      "id": 22
+      "id": 22,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 45,
       "name": "سمبوسك جبنة",
-      "id": 23
+      "id": 23,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 45,
       "name": "سمبوسك لحم",
-      "id": 24
+      "id": 24,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 55,
       "name": "فرسكا تشكن كرسبي",
-      "id": 25
+      "id": 25,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 70,
       "name": "فرسكا سي فود",
-      "id": 26
+      "id": 26,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 45,
       "name": "فرسكا فرايز",
-      "id": 27
+      "id": 27,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 80,
       "name": "مقبلات عائلي",
-      "id": 28
+      "id": 28,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 45,
       "name": "موتزيريلا استكس",
-      "id": 29
+      "id": 29,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 40,
       "name": "ناجتس",
-      "id": 30
+      "id": 30,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اباطايزر",
       "size": "وسط",
       "price": 40,
       "name": "ورق عنب",
-      "id": 31
+      "id": 31,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 40,
       "name": "أرز",
-      "id": 32
+      "id": 32,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 15,
       "name": "بيض اومليت",
-      "id": 33
+      "id": 33,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 15,
       "name": "بيض مسلوق",
-      "id": 34
+      "id": 34,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 15,
       "name": "جبنة موتزارلا",
-      "id": 35
+      "id": 35,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 30,
       "name": "جمـبرى",
-      "id": 36
+      "id": 36,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "وسط",
       "price": 30,
       "name": "رز بالشعرية",
-      "id": 37
+      "id": 37,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "وسط",
       "price": 40,
       "name": "رز بسمتي",
-      "id": 38
+      "id": 38,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "وسط",
       "price": 45,
       "name": "رز خلطة",
-      "id": 39
+      "id": 39,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 10,
       "name": "زيتون",
-      "id": 40
+      "id": 40,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 10,
       "name": "صوص",
-      "id": 41
+      "id": 41,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 15,
       "name": "عيش",
-      "id": 42
+      "id": 42,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 20,
       "name": "فراخ",
-      "id": 43
+      "id": 43,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 15,
       "name": "فول بالزبده",
-      "id": 44
+      "id": 44,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 15,
       "name": "فول بالزيت الحار",
-      "id": 45
+      "id": 45,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 10,
       "name": "كابورية",
-      "id": 46
+      "id": 46,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 20,
       "name": "كاليماري",
-      "id": 47
+      "id": 47,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "وسط",
       "price": 15,
       "name": "متبل",
-      "id": 48
+      "id": 48,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 10,
       "name": "مشروم",
-      "id": 49
+      "id": 49,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات",
       "size": "صغير",
       "price": 20,
       "name": "هوت دوج",
-      "id": 50
+      "id": 50,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 22,
       "name": "اسبريسو شوت",
-      "id": 51
+      "id": 51,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 20,
       "name": "اضافة بولة ايس كريم",
-      "id": 52
+      "id": 52,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 22,
       "name": "اضافة شوت اسبرسو",
-      "id": 53
+      "id": 53,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "صغير",
       "price": 15,
       "name": "اضافة صوص",
-      "id": 54
+      "id": 54,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 20,
       "name": "اضافة فواكه",
-      "id": 55
+      "id": 55,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 10,
       "name": "اضافة كريمة مخفوقة",
-      "id": 56
+      "id": 56,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 10,
       "name": "اضافة لوتس",
-      "id": 57
+      "id": 57,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 20,
       "name": "اضافة مارشيمللو",
-      "id": 58
+      "id": 58,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 15,
       "name": "اضافة مكسرات",
-      "id": 59
+      "id": 59,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 20,
       "name": "اضافة نكهات",
-      "id": 60
+      "id": 60,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 10,
       "name": "اضافة نوتيلا",
-      "id": 61
+      "id": 61,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 15,
       "name": "اكسترا حليب",
-      "id": 62
+      "id": 62,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "صغير",
       "price": 50,
       "name": "خدمة عيد ميلاد",
-      "id": 63
+      "id": 63,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 100,
       "name": "خدمة عيد ميلاد",
-      "id": 64
+      "id": 64,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "كبير",
       "price": 150,
       "name": "خدمة عيد ميلاد",
-      "id": 65
+      "id": 65,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 15,
       "name": "سيرب شوت",
-      "id": 66
+      "id": 66,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 15,
       "name": "صوص شوت",
-      "id": 67
+      "id": 67,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اضافات - ADDITIONS",
       "size": "وسط",
       "price": 15,
       "name": "ويبد كريم",
-      "id": 68
+      "id": 68,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 180,
       "name": "بايلا",
-      "id": 69
+      "id": 69,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 220,
       "name": "بيبر ستيك",
-      "id": 70
+      "id": 70,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 170,
       "name": "بيكاتا فراخ",
-      "id": 71
+      "id": 71,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 195,
       "name": "بيكاتا لحم",
-      "id": 72
+      "id": 72,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 190,
       "name": "تشكن ريكفورد",
-      "id": 73
+      "id": 73,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 170,
       "name": "تشكن كاري",
-      "id": 74
+      "id": 74,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 170,
       "name": "تشكن ليمون",
-      "id": 75
+      "id": 75,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 170,
       "name": "تشيكن شنغهاي",
-      "id": 76
+      "id": 76,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 170,
       "name": "داليدا تشكن",
-      "id": 77
+      "id": 77,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 220,
       "name": "فاهيتا جمبري",
-      "id": 78
+      "id": 78,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 170,
       "name": "فاهيتا فراخ",
-      "id": 79
+      "id": 79,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 205,
       "name": "فاهيتا لحم",
-      "id": 80
+      "id": 80,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 185,
       "name": "فاهيتا مكس",
-      "id": 81
+      "id": 81,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 180,
       "name": "كبسة فراخ",
-      "id": 82
+      "id": 82,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "اطباق رئيسية",
       "size": "وسط",
       "price": 195,
       "name": "كبسة لحم",
-      "id": 83
+      "id": 83,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 240,
       "name": "فرخه مشويه",
-      "id": 84
+      "id": 84,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 95,
       "name": "نص فرخه",
-      "id": 85
+      "id": 85,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 140,
       "name": "نص فرخه + أرز +بطاطس",
-      "id": 86
+      "id": 86,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 110,
       "name": "وجبة حمام",
-      "id": 87
+      "id": 87,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 170,
       "name": "وجبة طرب",
-      "id": 88
+      "id": 88,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 195,
       "name": "وجبة كباب و كفته",
-      "id": 89
+      "id": 89,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 210,
       "name": "وجبة ميكس فراخ",
-      "id": 90
+      "id": 90,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 240,
       "name": "وجبة نص بط",
-      "id": 91
+      "id": 91,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 155,
       "name": "وجبه شيش طاووق",
-      "id": 92
+      "id": 92,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 140,
       "name": "وجبه كفته",
-      "id": 93
+      "id": 93,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الركن الشارقي",
       "size": "وسط",
       "price": 230,
       "name": "وجبه مكس جريل",
-      "id": 94
+      "id": 94,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الزبادي -YOUGURT",
       "size": "وسط",
       "price": 40,
       "name": "ذبادي عسل",
-      "id": 95
+      "id": 95,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الزبادي -YOUGURT",
       "size": "وسط",
       "price": 50,
       "name": "ذبادي فواكة عصير ",
-      "id": 96
+      "id": 96,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الزبادي -YOUGURT",
       "size": "وسط",
       "price": 60,
       "name": "ذبادي فواكة قطع",
-      "id": 97
+      "id": 97,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 20,
       "name": "اعشاب",
-      "id": 98
+      "id": 98,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 40,
       "name": "سحلب شوكليت",
-      "id": 99
+      "id": 99,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 55,
       "name": "سحلب فاكهه قطع",
-      "id": 100
+      "id": 100,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 50,
       "name": "سحلب لوتس",
-      "id": 101
+      "id": 101,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 45,
       "name": "سحلب مكسرات",
-      "id": 102
+      "id": 102,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 50,
       "name": "سحلب نوتيلا",
-      "id": 103
+      "id": 103,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 20,
       "name": "شاي اخضر",
-      "id": 104
+      "id": 104,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "كبير",
       "price": 60,
       "name": "شاي براد كبير ",
-      "id": 105
+      "id": 105,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 50,
       "name": "شاي براد وسط ",
-      "id": 106
+      "id": 106,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 25,
       "name": "شاي حليب ",
-      "id": 107
+      "id": 107,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 25,
       "name": "شاي فلافر",
-      "id": 108
+      "id": 108,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 20,
       "name": "شاي قرنفل",
-      "id": 109
+      "id": 109,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 30,
       "name": "شاي كرك",
-      "id": 110
+      "id": 110,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 20,
       "name": "شاي كلاسيك ",
-      "id": 111
+      "id": 111,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 20,
       "name": "شاي نعناع ",
-      "id": 112
+      "id": 112,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 20,
       "name": "قرفة",
-      "id": 113
+      "id": 113,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 25,
       "name": "قرفة حليب",
-      "id": 114
+      "id": 114,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشاي والاعشاب - TEA AND HERBS",
       "size": "وسط",
       "price": 30,
       "name": "كوكتيل اعشاب ",
-      "id": 115
+      "id": 115,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشوربة",
       "size": "وسط",
       "price": 30,
       "name": "شوربة خضار",
-      "id": 116
+      "id": 116,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشوربة",
       "size": "وسط",
       "price": 90,
       "name": "شوربة سيفود",
-      "id": 117
+      "id": 117,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشوربة",
       "size": "وسط",
       "price": 55,
       "name": "شوربة كريمة",
-      "id": 118
+      "id": 118,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشوربة",
       "size": "وسط",
       "price": 55,
       "name": "شوربة كريمة فراخ",
-      "id": 119
+      "id": 119,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشوربة",
       "size": "وسط",
       "price": 70,
       "name": "شوربة كوارع",
-      "id": 120
+      "id": 120,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الشوربة",
       "size": "وسط",
       "price": 25,
       "name": "شوربة لسان عصفور",
-      "id": 121
+      "id": 121,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الصواني",
       "size": "وسط",
       "price": 550,
       "name": "صنيه 1",
-      "id": 122
+      "id": 122,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الصواني",
       "size": "وسط",
       "price": 870,
       "name": "صنيه 2",
-      "id": 123
+      "id": 123,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الصواني",
       "size": "وسط",
       "price": 1400,
       "name": "صنيه 3",
-      "id": 124
+      "id": 124,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 160,
       "name": "طاجن بامية باللحم",
-      "id": 125
+      "id": 125,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 140,
       "name": "طاجن بطاطس باللحمه",
-      "id": 126
+      "id": 126,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 140,
       "name": "طاجن خضار باللحمه",
-      "id": 127
+      "id": 127,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 150,
       "name": "طاجن لسان عصفور باللحمه",
-      "id": 128
+      "id": 128,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 195,
       "name": "طاجن ملوخية بالجمبري",
-      "id": 129
+      "id": 129,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 185,
       "name": "طاجن ملوخية باللحم",
-      "id": 130
+      "id": 130,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الطواجن",
       "size": "وسط",
       "price": 170,
       "name": "طاجن ورق عنب بالكوارع",
-      "id": 131
+      "id": 131,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 55,
       "name": "اومليت توست",
-      "id": 132
+      "id": 132,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 70,
       "name": "بيدة تونة",
-      "id": 133
+      "id": 133,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 50,
       "name": "بيدة جبنة + زيتون",
-      "id": 134
+      "id": 134,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 65,
       "name": "بيدة لحم",
-      "id": 135
+      "id": 135,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 45,
       "name": "جرين برجر بيج تيستي",
-      "id": 136
+      "id": 136,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 50,
       "name": "فطار اوربي",
-      "id": 137
+      "id": 137,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 40,
       "name": "فطار شرقي (1)",
-      "id": 138
+      "id": 138,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 65,
       "name": "كروك مسيو ASK",
-      "id": 139
+      "id": 139,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 55,
       "name": "كلاب سندويتش",
-      "id": 140
+      "id": 140,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 55,
       "name": "كلاب سندويتش جبنة",
-      "id": 141
+      "id": 141,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 55,
       "name": "كلاب سندويتش سموك بيف",
-      "id": 142
+      "id": 142,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 55,
       "name": "كلاب سندويتش سموك تركي",
-      "id": 143
+      "id": 143,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الفطار",
       "size": "وسط",
       "price": 55,
       "name": "كلاب سندويتش فراخ",
-      "id": 144
+      "id": 144,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 65,
       "name": "T -P - PARAISO 1",
-      "id": 145
+      "id": 145,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 65,
       "name": "T -P - PARAISO 2",
-      "id": 146
+      "id": 146,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 65,
       "name": "T -P - PARAISO 3",
-      "id": 147
+      "id": 147,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 120,
       "name": "باور انيرجي ",
-      "id": 148
+      "id": 148,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 65,
       "name": "تروبيكال",
-      "id": 149
+      "id": 149,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 60,
       "name": "فلوريداِ",
-      "id": 150
+      "id": 150,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "الكوكتيلات المخلوطة - BLENDED COCKTAILS",
       "size": "وسط",
       "price": 70,
       "name": "فياجرا ",
-      "id": 151
+      "id": 151,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 40,
       "name": "ام علي ساده",
-      "id": 152
+      "id": 152,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 65,
       "name": "ام علي فواكه",
-      "id": 153
+      "id": 153,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 50,
       "name": "ام علي قشطة",
-      "id": 154
+      "id": 154,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 60,
       "name": "ام علي قشطة مكسرات",
-      "id": 155
+      "id": 155,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 60,
       "name": "ام علي لوتس",
-      "id": 156
+      "id": 156,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 50,
       "name": "ام علي مكسرات",
-      "id": 157
+      "id": 157,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ام علي - OM ALI",
       "size": "وسط",
       "price": 60,
       "name": "ام علي نوتيلا",
-      "id": 158
+      "id": 158,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كريم - ICE CREAM",
       "size": "وسط",
       "price": 30,
       "name": "ايس كريم 2 بولة",
-      "id": 159
+      "id": 159,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كريم - ICE CREAM",
       "size": "وسط",
       "price": 45,
       "name": "ايس كريم 3 بولة",
-      "id": 160
+      "id": 160,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كريم - ICE CREAM",
       "size": "3 بولة",
       "price": 60,
       "name": "ايس كريم فواكه",
-      "id": 161
+      "id": 161,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كريم - ICE CREAM",
       "size": "3 بولة",
       "price": 60,
       "name": "ايس كريم ميكس شوكليت ",
-      "id": 162
+      "id": 162,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "ايس امريكانو",
-      "id": 163
+      "id": 163,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 60,
       "name": "ايس كراميل ميكاتو",
-      "id": 164
+      "id": 164,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "ايس كوفي شيك ",
-      "id": 165
+      "id": 165,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "ايس لاتية",
-      "id": 166
+      "id": 166,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 60,
       "name": "ايس لاتية سبانيش",
-      "id": 167
+      "id": 167,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 60,
       "name": "ايس لاتية فليفر",
-      "id": 168
+      "id": 168,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 60,
       "name": "ايس موكا دارك",
-      "id": 169
+      "id": 169,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ايس كوفي - CLOD COFFEE",
       "size": "وسط",
       "price": 60,
       "name": "ايس موكا وايت",
-      "id": 170
+      "id": 170,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 90,
       "name": "ارابياتا",
-      "id": 171
+      "id": 171,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 90,
       "name": "الفريدو باستا",
-      "id": 172
+      "id": 172,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 85,
       "name": "باستا بولونيز",
-      "id": 173
+      "id": 173,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 115,
       "name": "باستا جمبري",
-      "id": 174
+      "id": 174,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 110,
       "name": "باستا سي فود",
-      "id": 175
+      "id": 175,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 90,
       "name": "باستا شيش",
-      "id": 176
+      "id": 176,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 90,
       "name": "بشمل",
-      "id": 177
+      "id": 177,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 95,
       "name": "بيف باستا",
-      "id": 178
+      "id": 178,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 90,
       "name": "تشكن بيستو",
-      "id": 179
+      "id": 179,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 95,
       "name": "تشكن تشانيز نودلز ",
-      "id": 180
+      "id": 180,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 95,
       "name": "سوبريم",
-      "id": 181
+      "id": 181,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 80,
       "name": "مكرونه بالبشاميل",
-      "id": 182
+      "id": 182,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "باستا",
       "size": "وسط",
       "price": 95,
       "name": "نجرسكو",
-      "id": 183
+      "id": 183,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 55,
       "name": "ميني بان كيك اوريو",
-      "id": 184
+      "id": 184,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 50,
       "name": "ميني بان كيك دارك شوكليت ",
-      "id": 185
+      "id": 185,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 40,
       "name": "ميني بان كيك عسل ",
-      "id": 186
+      "id": 186,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميني بان كيك فواكه",
-      "id": 187
+      "id": 187,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 40,
       "name": "ميني بان كيك قرفه سكر ",
-      "id": 188
+      "id": 188,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميني بان كيك لوتس ",
-      "id": 189
+      "id": 189,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 45,
       "name": "ميني بان كيك ميكس شوكليت ",
-      "id": 190
+      "id": 190,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 50,
       "name": "ميني بان كيك نوتيلا ",
-      "id": 191
+      "id": 191,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميني بان كيك نوتيلا مكسرات ",
-      "id": 192
+      "id": 192,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بان كيك - PANCAKE",
       "size": "وسط",
       "price": 50,
       "name": "ميني بان كيك وايت شوكليت ",
-      "id": 193
+      "id": 193,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر فراخ",
       "size": "وسط",
       "price": 105,
       "name": "تشيكن رانش",
-      "id": 194
+      "id": 194,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر فراخ",
       "size": "وسط",
       "price": 110,
       "name": "جوسي لوسي تشكن",
-      "id": 195
+      "id": 195,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر لحم",
       "size": "وسط",
       "price": 170,
       "name": "برجر بارايسو",
-      "id": 196
+      "id": 196,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر لحم",
       "size": "وسط",
       "price": 105,
       "name": "برجر تشيز",
-      "id": 197
+      "id": 197,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر لحم",
       "size": "وسط",
       "price": 90,
       "name": "برجر كلاسيك",
-      "id": 198
+      "id": 198,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر لحم",
       "size": "وسط",
       "price": 115,
       "name": "بيج تيستي",
-      "id": 199
+      "id": 199,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "برجر لحم",
       "size": "وسط",
       "price": 115,
       "name": "سموكد برجر",
-      "id": 200
+      "id": 200,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 110,
       "name": "cl ببروني",
-      "id": 201
+      "id": 201,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 105,
       "name": "cl تشيز تشيكن",
-      "id": 202
+      "id": 202,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 105,
       "name": "cl شيش",
-      "id": 203
+      "id": 203,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 115,
       "name": "cl مكس فراخ",
-      "id": 204
+      "id": 204,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 130,
       "name": "ببروني",
-      "id": 205
+      "id": 205,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 116,
       "name": "بيتزا سجق",
-      "id": 206
+      "id": 206,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 135,
       "name": "بيتزا شاورما فراخ",
-      "id": 207
+      "id": 207,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 140,
       "name": "بيتزا شاورما لحمه",
-      "id": 208
+      "id": 208,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 135,
       "name": "بيتزا فاهيتا فراخ",
-      "id": 209
+      "id": 209,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 150,
       "name": "بيتزا فاهيتا لحمة",
-      "id": 210
+      "id": 210,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 90,
       "name": "بيتزا مارجريتا",
-      "id": 211
+      "id": 211,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "وسط",
       "price": 140,
       "name": "بيتزا مكس لحوم",
-      "id": 212
+      "id": 212,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 135,
       "name": "تشكن باربيكيو",
-      "id": 213
+      "id": 213,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 140,
       "name": "تونه",
-      "id": 214
+      "id": 214,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 160,
       "name": "جمبري",
-      "id": 215
+      "id": 215,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 105,
       "name": "خضار",
-      "id": 216
+      "id": 216,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 135,
       "name": "سوبرسوبريم",
-      "id": 217
+      "id": 217,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 165,
       "name": "سي فود",
-      "id": 218
+      "id": 218,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 130,
       "name": "شيش طاوق",
-      "id": 219
+      "id": 219,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 125,
       "name": "كرسبي تشكن رانش",
-      "id": 220
+      "id": 220,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 135,
       "name": "كواترو فور ماجي",
-      "id": 221
+      "id": 221,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "بيتزا",
       "size": "كبير",
       "price": 135,
       "name": "مكس فراخ",
-      "id": 222
+      "id": 222,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 60,
       "name": "وافل اوريو ",
-      "id": 223
+      "id": 223,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 60,
       "name": "وافل دابل ميكس ",
-      "id": 224
+      "id": 224,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 50,
       "name": "وافل دارك شوكليت ",
-      "id": 225
+      "id": 225,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 40,
       "name": "وافل عسل ",
-      "id": 226
+      "id": 226,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 75,
       "name": "وافل فواكه ",
-      "id": 227
+      "id": 227,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 85,
       "name": "وافل فواكه ايس ",
-      "id": 228
+      "id": 228,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 60,
       "name": "وافل فور سيزون ",
-      "id": 229
+      "id": 229,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 40,
       "name": "وافل قرفه سكر ",
-      "id": 230
+      "id": 230,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 50,
       "name": "وافل كراميل ",
-      "id": 231
+      "id": 231,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 60,
       "name": "وافل لوتس ",
-      "id": 232
+      "id": 232,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 50,
       "name": "وافل نوتيلا ",
-      "id": 233
+      "id": 233,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 65,
       "name": "وافل نوتيلا مكسرات ",
-      "id": 234
+      "id": 234,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ركن الوافل - SWEET WAFLE",
       "size": "وسط",
       "price": 50,
       "name": "وافل وايت شوكليت ",
-      "id": 235
+      "id": 235,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 15,
       "name": "بابا غنوج",
-      "id": 236
+      "id": 236,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 15,
       "name": "بازنجان متبل",
-      "id": 237
+      "id": 237,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 55,
       "name": "تشكن سيزر سلاط",
-      "id": 238
+      "id": 238,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 25,
       "name": "ثوميه",
-      "id": 239
+      "id": 239,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 15,
       "name": "خيار بالزبادي",
-      "id": 240
+      "id": 240,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 15,
       "name": "سلطة خضراء",
-      "id": 241
+      "id": 241,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 25,
       "name": "طحينه",
-      "id": 242
+      "id": 242,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 15,
       "name": "طماطم متبلة",
-      "id": 243
+      "id": 243,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سلطات",
       "size": "وسط",
       "price": 30,
       "name": "كلو سلو",
-      "id": 244
+      "id": 244,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي اناناس ",
-      "id": 245
+      "id": 245,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي باشون فروت ",
-      "id": 246
+      "id": 246,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي برتقال ",
-      "id": 247
+      "id": 247,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي بطيخ ",
-      "id": 248
+      "id": 248,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي بلوبيري ",
-      "id": 249
+      "id": 249,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي تفاح اخضر ",
-      "id": 250
+      "id": 250,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي خوخ ",
-      "id": 251
+      "id": 251,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي ريد بيري ",
-      "id": 252
+      "id": 252,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي فراوله ",
-      "id": 253
+      "id": 253,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي كيوي ",
-      "id": 254
+      "id": 254,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي ليمون ",
-      "id": 255
+      "id": 255,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي ليمون نعناع ",
-      "id": 256
+      "id": 256,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي مانجو",
-      "id": 257
+      "id": 257,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سموزي - SMOOTHIES",
       "size": "وسط",
       "price": 60,
       "name": "سموزي ميكس بيري ",
-      "id": 258
+      "id": 258,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 85,
       "name": "ساندوتش استريبس",
-      "id": 259
+      "id": 259,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 80,
       "name": "ساندوتش تشكن جريل",
-      "id": 260
+      "id": 260,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 120,
       "name": "ساندوتش جمبري",
-      "id": 261
+      "id": 261,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 95,
       "name": "ساندوتش راب تشكن",
-      "id": 262
+      "id": 262,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 95,
       "name": "ساندوتش زنجر سوبريم",
-      "id": 263
+      "id": 263,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 90,
       "name": "ساندوتش شاورما فراخ",
-      "id": 264
+      "id": 264,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 120,
       "name": "ساندوتش شاورما لحم",
-      "id": 265
+      "id": 265,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 85,
       "name": "ساندوتش شيش طاووق",
-      "id": 266
+      "id": 266,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 90,
       "name": "ساندوتش فاهيتا فراخ",
-      "id": 267
+      "id": 267,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 110,
       "name": "ساندوتش فاهيتا لحم",
-      "id": 268
+      "id": 268,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 85,
       "name": "ساندوتش كاساديا",
-      "id": 269
+      "id": 269,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 99,
       "name": "ساندوتش كاساديا لحم",
-      "id": 270
+      "id": 270,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "سندوتشات",
       "size": "وسط",
       "price": 75,
       "name": "ساندوتش هوت دوج",
-      "id": 271
+      "id": 271,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "اسبيشيال  هوت paraiso",
-      "id": 272
+      "id": 272,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "هوت دارك اوريو",
-      "id": 273
+      "id": 273,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 40,
       "name": "هوت شوكلت",
-      "id": 274
+      "id": 274,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "هوت شوكليت مارشميلو",
-      "id": 275
+      "id": 275,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "هوت كراميل بندق ",
-      "id": 276
+      "id": 276,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 60,
       "name": "هوت لوتس ",
-      "id": 277
+      "id": 277,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "هوت نوتيلا ",
-      "id": 278
+      "id": 278,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "هوت هوهوز ",
-      "id": 279
+      "id": 279,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 50,
       "name": "هوت وايت اوريو",
-      "id": 280
+      "id": 280,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "شيكولاتة - CHOCOLATE",
       "size": "وسط",
       "price": 40,
       "name": "هوت وايت شوكليت",
-      "id": 281
+      "id": 281,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 45,
       "name": "برقوق فريش ",
-      "id": 282
+      "id": 282,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 45,
       "name": "بطيخ فريش ",
-      "id": 283
+      "id": 283,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "جوافه حليب فريش ",
-      "id": 284
+      "id": 284,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 65,
       "name": "عصير افوكادو (فريش)",
-      "id": 285
+      "id": 285,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 75,
       "name": "عصير افوكادو ايس (فريش)",
-      "id": 286
+      "id": 286,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 75,
       "name": "عصير افوكادو مكسرات (فريش)",
-      "id": 287
+      "id": 287,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 45,
       "name": "عصير اناناس (فريش)",
-      "id": 288
+      "id": 288,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 40,
       "name": "عصير برتقال فريش",
-      "id": 289
+      "id": 289,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "عصير بلح حليب (فريش)",
-      "id": 290
+      "id": 290,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 40,
       "name": "عصير جوافة فريش",
-      "id": 291
+      "id": 291,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 45,
       "name": "عصير خوخ (فريش)",
-      "id": 292
+      "id": 292,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 40,
       "name": "عصير فراولة",
-      "id": 293
+      "id": 293,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "عصير فراولة حليب",
-      "id": 294
+      "id": 294,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 40,
       "name": "عصير كنتالوب (فريش)",
-      "id": 295
+      "id": 295,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "عصير كِيوي فريش",
-      "id": 296
+      "id": 296,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "عصير ليمون فرنساوي (فريش)",
-      "id": 297
+      "id": 297,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 40,
       "name": "عصير لَيمون فريش",
-      "id": 298
+      "id": 298,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "عصير ليمون نعناع (فريش)",
-      "id": 299
+      "id": 299,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 45,
       "name": "عصير مانجو فريش",
-      "id": 300
+      "id": 300,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "عصير موز حليب (فريش)",
-      "id": 301
+      "id": 301,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "عصاير فريش - FRESH JUICE",
       "size": "وسط",
       "price": 50,
       "name": "ليمون ايطالي فريش ",
-      "id": 302
+      "id": 302,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 70,
       "name": "فرابتشينو اوريو ",
-      "id": 303
+      "id": 303,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو بندق ",
-      "id": 304
+      "id": 304,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو توفي نت ",
-      "id": 305
+      "id": 305,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 70,
       "name": "فرابتشينو جلاكسي ",
-      "id": 306
+      "id": 306,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو جوز هند ",
-      "id": 307
+      "id": 307,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 70,
       "name": "فرابتشينو سنيكرز ",
-      "id": 308
+      "id": 308,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو فانيليا",
-      "id": 309
+      "id": 309,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو فشار ",
-      "id": 310
+      "id": 310,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو قرفه ",
-      "id": 311
+      "id": 311,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو كراميل ",
-      "id": 312
+      "id": 312,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 50,
       "name": "فرابتشينو كوفي ",
-      "id": 313
+      "id": 313,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو كوكيز ",
-      "id": 314
+      "id": 314,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 70,
       "name": "فرابتشينو كيت كات ",
-      "id": 315
+      "id": 315,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 70,
       "name": "فرابتشينو لوتس ",
-      "id": 316
+      "id": 316,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 70,
       "name": "فرابتشينو نوتيلا ",
-      "id": 317
+      "id": 317,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابتشينو - FRAPPUCCINO",
       "size": "وسط",
       "price": 60,
       "name": "فرابتشينو وايت شوكليت ",
-      "id": 318
+      "id": 318,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 45,
       "name": "فرابية كوفي",
-      "id": 319
+      "id": 319,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 60,
       "name": "فرابية نوتيلا",
-      "id": 320
+      "id": 320,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 60,
       "name": "فرابيه اوريو ",
-      "id": 321
+      "id": 321,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه بندق",
-      "id": 322
+      "id": 322,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه توفي نت ",
-      "id": 323
+      "id": 323,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 65,
       "name": "فرابيه جلاكسي ",
-      "id": 324
+      "id": 324,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه جوز هند ",
-      "id": 325
+      "id": 325,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 65,
       "name": "فرابيه سنيكرز ",
-      "id": 326
+      "id": 326,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه فانليا ",
-      "id": 327
+      "id": 327,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه فشار ",
-      "id": 328
+      "id": 328,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه قرفه ",
-      "id": 329
+      "id": 329,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه كراميل ",
-      "id": 330
+      "id": 330,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه كوكيز ",
-      "id": 331
+      "id": 331,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 65,
       "name": "فرابيه كيت كات ",
-      "id": 332
+      "id": 332,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 60,
       "name": "فرابيه لوتس ",
-      "id": 333
+      "id": 333,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 55,
       "name": "فرابيه وايت شوكليت ",
-      "id": 334
+      "id": 334,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فرابيه - FRAPPE",
       "size": "وسط",
       "price": 60,
       "name": "موكا فرابيه ",
-      "id": 335
+      "id": 335,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "مخصوص",
       "price": 150,
       "name": "طبق فروت سبيشيال T-P -PARAISO 1 ",
-      "id": 336
+      "id": 336,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "مخصوص",
       "price": 200,
       "name": "طبق فروت سبيشيال T-P -PARAISO 2 ",
-      "id": 337
+      "id": 337,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "مخصوص",
       "price": 250,
       "name": "طبق فروت سبيشيال T-P -PARAISO 3",
-      "id": 338
+      "id": 338,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "مخصوص",
       "price": 300,
       "name": "طبق فروت سبيشيال T-P -PARAISO 4",
-      "id": 339
+      "id": 339,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "وسط",
       "price": 80,
       "name": "فروت سلاط T - P  PARAISO ",
-      "id": 340
+      "id": 340,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "وسط",
       "price": 70,
       "name": "فروت سلاط ايس كريم",
-      "id": 341
+      "id": 341,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "فروت سلاط - FRUIT SALAD",
       "size": "وسط",
       "price": 60,
       "name": "فروت سلاط كلاسيك",
-      "id": 342
+      "id": 342,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 55,
       "name": "اسبانش لاتيه",
-      "id": 343
+      "id": 343,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "اسبرسو افوكادو ",
-      "id": 344
+      "id": 344,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "سنجل",
       "price": 30,
       "name": "اسبريسو",
-      "id": 345
+      "id": 345,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "دابل",
       "price": 40,
       "name": "اسبريسو دابل ",
-      "id": 346
+      "id": 346,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "اسبريسو كون بانا",
-      "id": 347
+      "id": 347,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "سنجل",
       "price": 35,
       "name": "اسبريسو ميكاتو",
-      "id": 348
+      "id": 348,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "دابل",
       "price": 45,
       "name": "اسبريسو ميكاتو دابل ",
-      "id": 349
+      "id": 349,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "سنجل",
       "price": 40,
       "name": "اسبريسو نوتيلا ",
-      "id": 350
+      "id": 350,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 40,
       "name": "اميركان كوفي",
-      "id": 351
+      "id": 351,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "فلات وايت",
-      "id": 352
+      "id": 352,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 55,
       "name": "فلات وايت فليفر ",
-      "id": 353
+      "id": 353,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "قهوه باونتي ",
-      "id": 354
+      "id": 354,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "قهوه بندق",
-      "id": 355
+      "id": 355,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "دابل",
       "price": 35,
       "name": "قهوه تركي دابل",
-      "id": 356
+      "id": 356,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "سنجل",
       "price": 25,
       "name": "قهوه تركي سنجل",
-      "id": 357
+      "id": 357,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "قهوه تركي نوتيلا",
-      "id": 358
+      "id": 358,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "قهوه جالكسي",
-      "id": 359
+      "id": 359,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "قهوه سنكرز",
-      "id": 360
+      "id": 360,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 40,
       "name": "قهوه فرنسي",
-      "id": 361
+      "id": 361,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "قهوه مارس",
-      "id": 362
+      "id": 362,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "كابتشينو",
-      "id": 363
+      "id": 363,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 55,
       "name": "كابتشينو فليفر ",
-      "id": 364
+      "id": 364,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "كورتادو",
-      "id": 365
+      "id": 365,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 45,
       "name": "لاتيه",
-      "id": 366
+      "id": 366,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 55,
       "name": "لاتيه فليفر ",
-      "id": 367
+      "id": 367,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 25,
       "name": "نسكافيه بلاك",
-      "id": 368
+      "id": 368,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 40,
       "name": "نسكافيه حليب",
-      "id": 369
+      "id": 369,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "هوت كراميل ميكاتو ",
-      "id": 370
+      "id": 370,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "هوت موكا دارك شوكليت",
-      "id": 371
+      "id": 371,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "قهوة ساخنة - HOT COFFEE",
       "size": "وسط",
       "price": 50,
       "name": "هوت موكا وايت شوكليت",
-      "id": 372
+      "id": 372,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 45,
       "name": "ترامسيو ",
-      "id": 373
+      "id": 373,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 55,
       "name": "تشيز كيك فليفر",
-      "id": 374
+      "id": 374,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 45,
       "name": "تشيز كيك كلاسيك",
-      "id": 375
+      "id": 375,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 45,
       "name": "ريد فيلفتِ",
-      "id": 376
+      "id": 376,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 60,
       "name": "سينابون فليفر",
-      "id": 377
+      "id": 377,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 50,
       "name": "سينابون كلاسيك",
-      "id": 378
+      "id": 378,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 45,
       "name": "شوكليت كيكِ",
-      "id": 379
+      "id": 379,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 60,
       "name": "مولتن كيك ايس كريم",
-      "id": 380
+      "id": 380,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 50,
       "name": "مولتن كيك شوكلت",
-      "id": 381
+      "id": 381,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 55,
       "name": "مولتن كيك لوتس",
-      "id": 382
+      "id": 382,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "كيك حلو - CANDY CAKE",
       "size": "وسط",
       "price": 45,
       "name": "نيوتيلا كيك بندق",
-      "id": 383
+      "id": 383,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 65,
       "name": "مدنس اوريو ",
-      "id": 384
+      "id": 384,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 65,
       "name": "مدنس تشيز",
-      "id": 385
+      "id": 385,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 65,
       "name": "مدنس ريد فلفيت ",
-      "id": 386
+      "id": 386,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 75,
       "name": "مدنس سبيشيال T-P- PARAISO",
-      "id": 387
+      "id": 387,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 65,
       "name": "مدنس شوكليت ",
-      "id": 388
+      "id": 388,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 75,
       "name": "مدنس شوكليت قطع ",
-      "id": 389
+      "id": 389,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 70,
       "name": "مدنس كيت كات ",
-      "id": 390
+      "id": 390,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 65,
       "name": "مدنس لوتس ",
-      "id": 391
+      "id": 391,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مدنس - MADNESS",
       "size": "وسط",
       "price": 65,
       "name": "مدنس نوتيلا",
-      "id": 392
+      "id": 392,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 20,
       "name": "بيبسي",
-      "id": 393
+      "id": 393,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 25,
       "name": "بيريل",
-      "id": 394
+      "id": 394,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 50,
       "name": "ريد بول",
-      "id": 395
+      "id": 395,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 20,
       "name": "سفن اب",
-      "id": 396
+      "id": 396,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 20,
       "name": "شويبس اناناس",
-      "id": 397
+      "id": 397,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 20,
       "name": "شويبس رمان",
-      "id": 398
+      "id": 398,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 25,
       "name": "فيروز",
-      "id": 399
+      "id": 399,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 8,
       "name": "مياة",
-      "id": 400
+      "id": 400,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "مشروبات غازية - OTHERS",
       "size": "وسط",
       "price": 20,
       "name": "ميراندا ",
-      "id": 401
+      "id": 401,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 60,
       "name": "اكزوتك ",
-      "id": 402
+      "id": 402,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 50,
       "name": "بلو باشون فيز ",
-      "id": 403
+      "id": 403,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "بلو سكاي ",
-      "id": 404
+      "id": 404,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "بلو مليون",
-      "id": 405
+      "id": 405,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 50,
       "name": "بلو هاواي ",
-      "id": 406
+      "id": 406,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "بيري كولا",
-      "id": 407
+      "id": 407,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 60,
       "name": "بيناكولادا",
-      "id": 408
+      "id": 408,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 50,
       "name": "جرين بيتش ",
-      "id": 409
+      "id": 409,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 60,
       "name": "دابل هامر ",
-      "id": 410
+      "id": 410,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "ريد سكاي ",
-      "id": 411
+      "id": 411,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 55,
       "name": "سمر درينك ",
-      "id": 412
+      "id": 412,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 50,
       "name": "سوبر ساور ",
-      "id": 413
+      "id": 413,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "شيري كولا",
-      "id": 414
+      "id": 414,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "صن رايز ",
-      "id": 415
+      "id": 415,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "صن شاين ",
-      "id": 416
+      "id": 416,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "صودا اب فليفر ",
-      "id": 417
+      "id": 417,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "صودا حبحب ",
-      "id": 418
+      "id": 418,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "كولد سيدر ",
-      "id": 419
+      "id": 419,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 55,
       "name": "موهيتو فليفر",
-      "id": 420
+      "id": 420,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 45,
       "name": "موهيتو كلاسيك ",
-      "id": 421
+      "id": 421,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس الحمض - SOUR MIX",
       "size": "وسط",
       "price": 50,
       "name": "ميكس ايطاليان صودا ",
-      "id": 422
+      "id": 422,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "برتقال كيوي ",
-      "id": 423
+      "id": 423,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "برتقال ليمون",
-      "id": 424
+      "id": 424,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "بطيخ حليب ",
-      "id": 425
+      "id": 425,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "بلح كيوي ",
-      "id": 426
+      "id": 426,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "بلح موز ",
-      "id": 427
+      "id": 427,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "فراوله اناناس ",
-      "id": 428
+      "id": 428,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "فراوله برتقال ",
-      "id": 429
+      "id": 429,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "فراوله كيوي ",
-      "id": 430
+      "id": 430,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "فراوله موز ",
-      "id": 431
+      "id": 431,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 60,
       "name": "كيوي اناناس ",
-      "id": 432
+      "id": 432,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "كيوي كنتالوب ",
-      "id": 433
+      "id": 433,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "مانجا  كيوي",
-      "id": 434
+      "id": 434,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "مانجا جوافه ",
-      "id": 435
+      "id": 435,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "مانجا خوخ ",
-      "id": 436
+      "id": 436,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "مانجا فراوله ",
-      "id": 437
+      "id": 437,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "مانجا موز",
-      "id": 438
+      "id": 438,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "موز شوكليت ",
-      "id": 439
+      "id": 439,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميكس عصاير - Mix Jus",
       "size": "وسط",
       "price": 55,
       "name": "موز كراميل ",
-      "id": 440
+      "id": 440,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك اناناس ",
-      "id": 441
+      "id": 441,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميلك اوريو ",
-      "id": 442
+      "id": 442,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك اوريو قطع ",
-      "id": 443
+      "id": 443,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك باشون فروت ",
-      "id": 444
+      "id": 444,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك بلوبيري ",
-      "id": 445
+      "id": 445,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك بندق ",
-      "id": 446
+      "id": 446,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك تشيز كيك ",
-      "id": 447
+      "id": 447,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك توفي نت ",
-      "id": 448
+      "id": 448,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك جلاكسي ",
-      "id": 449
+      "id": 449,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك جوز هند ",
-      "id": 450
+      "id": 450,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك خوخ ",
-      "id": 451
+      "id": 451,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك ريد بيري ",
-      "id": 452
+      "id": 452,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك ريد فلفيت ",
-      "id": 453
+      "id": 453,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك سبيشيال PARAISO ",
-      "id": 454
+      "id": 454,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك سنيكرز ",
-      "id": 455
+      "id": 455,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك شوكليت ",
-      "id": 456
+      "id": 456,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 55,
       "name": "ميلك فانيليا ",
-      "id": 457
+      "id": 457,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك فراوله ",
-      "id": 458
+      "id": 458,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك فراوله بيري ",
-      "id": 459
+      "id": 459,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك فشار ",
-      "id": 460
+      "id": 460,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك كراميل ",
-      "id": 461
+      "id": 461,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك كوكيز ",
-      "id": 462
+      "id": 462,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك كيت كات ",
-      "id": 463
+      "id": 463,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك لبان ",
-      "id": 464
+      "id": 464,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميلك لوتس ",
-      "id": 465
+      "id": 465,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك مارس ",
-      "id": 466
+      "id": 466,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 75,
       "name": "ميلك مالتيزر ",
-      "id": 467
+      "id": 467,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك مانجا ",
-      "id": 468
+      "id": 468,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك موز ",
-      "id": 469
+      "id": 469,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 60,
       "name": "ميلك ميكس بيري ",
-      "id": 470
+      "id": 470,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميلك نوتيلا ",
-      "id": 471
+      "id": 471,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميلك نوتيلا لوتس ",
-      "id": 472
+      "id": 472,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "ميلك شيك - MILK SHAKE",
       "size": "وسط",
       "price": 65,
       "name": "ميلك هوهوز ",
-      "id": 473
+      "id": 473,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "هوت سيدر -HOT CEDAR",
       "size": "وسط",
       "price": 45,
       "name": "هوت سيدر اناناس",
-      "id": 474
+      "id": 474,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "هوت سيدر -HOT CEDAR",
       "size": "وسط",
       "price": 45,
       "name": "هوت سيدر برتقال",
-      "id": 475
+      "id": 475,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "هوت سيدر -HOT CEDAR",
       "size": "وسط",
       "price": 45,
       "name": "هوت سيدر تفاح",
-      "id": 476
+      "id": 476,
+      "englishName": "English Name",
+      "components": "(طماطم - خيار - جبنة - عيش - شريحة لحم)"
     },
     {
       "group": "هوت سيدر -HOT CEDAR",
