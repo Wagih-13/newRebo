@@ -81,7 +81,8 @@ body {
   margin-bottom: 20px;
 }
 .tableContainer .photoContainer h1 {
-  font-size: 40px;
+  font-size: 50px;
+  color: rgba(62, 94, 44, 1);
 }
 
 .tableContainer img {
@@ -247,7 +248,7 @@ body {
     bottom: 50px;
   }
   .tableContainer .photoContainer h1 {
-    font-size: 35px;
+    font-size: 40px;
   }
 
   .tableContainer img {
@@ -265,7 +266,7 @@ body {
 
 @media (max-width: 767px) {
   .tableContainer .photoContainer h1 {
-    font-size: 25px;
+    font-size: 30px;
   }
 
   .tableContainer img {
