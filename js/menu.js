@@ -86,7 +86,7 @@ async function getData() {
 
   document.getElementById("test").innerHTML = htmlTagsContainer;
   let swiper = new Swiper(".Slider-container", {
-    effect: "cards",
+    effect: "flip",
     grabCursor: true,
     centerdSlides: true,
     loop: true,
@@ -95,8 +95,6 @@ async function getData() {
       prevEl: ".swiper-button-prev",
     },
   });
-
- 
 }
 
 getData();
