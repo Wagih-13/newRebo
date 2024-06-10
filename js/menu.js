@@ -49,18 +49,17 @@ async function getData() {
     const items = allData.Sheet1.filter((element) => element.group === group);
 
     const itemRows = items.map(
-      (element) =>
-        `
-      <div class="rowContainer">
-        <div class="infoContainer">
-          <span>${element.name}</span>
-          <span>${element.price}</span>
-          <span>${element.englishName}</span>
+      (element) => `
+        <div class="rowContainer">
+          <div class="infoContainer">
+            <span>${element.name}</span>
+            <span>${element.price}</span>
+            <span>${element.englishName}</span>
+          </div>
+          <div class="components">
+            ${element.components !== undefined ? element.components : ""}
+          </div>
         </div>
-        <div class="components">
-          ${element.components !== undefined ? element.components : ""}
-        </div>
-      </div>
       `
     );
 
