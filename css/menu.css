@@ -82,7 +82,9 @@ body {
 }
 .tableContainer .photoContainer h1 {
   font-size: 50px;
-  color: rgba(62, 94, 44, 1);
+  color: rgb(51, 78, 35);
+  /* color: #444444; */
+  text-shadow: 0px 2px 10px #a09f9f;
 }
 
 .tableContainer img {
@@ -142,6 +144,7 @@ body {
   border-top-left-radius: 0px !important;
   user-select: none;
   border: none;
+  box-shadow: 0px 0px 10px 3px #bdbdbd;
 }
 
 .pagnation .swiper-button-prev {
@@ -170,6 +173,7 @@ body {
   border-bottom-left-radius: 20px;
   user-select: none;
   border: none;
+  box-shadow: 0px 0px 10px 3px #bdbdbd;
 }
 
 .pagnation .swiper-button-prev::after,
@@ -185,10 +189,11 @@ body {
   width: 100%;
   text-align: center;
   gap: 10px;
-  font-family: "Reem Kufi", sans-serif;
+  font-family: "Cairo", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
+  font-variation-settings: "slnt" 0;
   position: relative;
   padding-bottom: 10px;
 }
@@ -221,16 +226,19 @@ body {
   width: 40%;
   font-size: 25px;
   text-align: start;
+  color: rgb(54, 82, 39);
 }
 .cardContainer .rowContainer .infoContainer > span:nth-child(2) {
   width: 20%;
-  font-size: 25px;
+  font-size: 27px;
   text-align: center;
+  color: #be9006;
 }
 .cardContainer .rowContainer .infoContainer > span:nth-child(3) {
   width: 40%;
   font-size: 25px;
   text-align: end;
+  color: rgb(54, 82, 39);
 }
 
 .cardContainer .rowContainer .components {
