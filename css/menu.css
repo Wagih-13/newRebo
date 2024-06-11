@@ -82,7 +82,7 @@ body {
 }
 .tableContainer .photoContainer h1 {
   font-size: 50px;
-  color: #4F6F52;
+  color: rgba(62, 94, 44, 1);
 }
 
 .tableContainer img {
@@ -266,7 +266,7 @@ body {
 
 @media (max-width: 767px) {
   .tableContainer .photoContainer h1 {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .tableContainer img {
