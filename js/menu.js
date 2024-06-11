@@ -1,4 +1,3 @@
-
 async function fetchData() {
   let req = await fetch("./data/menuData.json");
   let res = await req.json();
