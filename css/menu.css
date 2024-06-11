@@ -230,9 +230,9 @@ body {
 }
 .cardContainer .rowContainer .infoContainer > span:nth-child(2) {
   width: 20%;
-  font-size: 30px;
+  font-size: 25px;
   text-align: center;
-  color: #c29100;
+  color: #967102;
 }
 .cardContainer .rowContainer .infoContainer > span:nth-child(3) {
   width: 40%;
@@ -288,7 +288,7 @@ body {
     font-size: 18px;
   }
   .cardContainer .rowContainer .infoContainer > span:nth-child(2) {
-    font-size: 24px;
+    font-size: 20px;
   }
   .cardContainer .rowContainer .components {
     font-size: 14px;
