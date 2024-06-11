@@ -1,4 +1,3 @@
-// swiper.changeDirection('vertical');
 
 async function fetchData() {
   let req = await fetch("./data/menuData.json");
@@ -94,6 +93,7 @@ async function getData() {
       prevEl: ".swiper-button-prev",
     },
   });
+  // swiper.changeDirection('vertical');
 }
 
 getData();
