@@ -28,19 +28,10 @@ async function getData() {
       name: "Additions",
       imgUrl: "./images/Additions.png",
     },
-    {
-      group: "اضافات - ADDITIONS",
-      name: "Drink aditions",
-      imgUrl: "./images/iceCreem.png",
-    },
     { group: "الركن الشارقي", name: "Sharky", imgUrl: "./images/eastFood.png" },
-    {
-      group: "الشاي والاعشاب - TEA AND HERBS",
-      name: "Drinks",
-      imgUrl: "./images/drinks.png",
-    },
   ];
 
+  
   let htmlTagsContainer = "";
 
   for (const { group, name, imgUrl } of categories) {
