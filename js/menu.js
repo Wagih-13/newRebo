@@ -17,24 +17,31 @@ async function getData() {
       group: "vip",
       name: "VIP",
       imgUrl: "./images/Vip.png",
+      pageNum: 1,
     },
     {
       group: "اباطايزر",
       name: "Appetizers",
       imgUrl: "./images/Appetizers.png",
+      pageNum: 2,
     },
     {
       group: "اضافات",
       name: "Additions",
       imgUrl: "./images/Additions.png",
+      pageNum: 3,
     },
-    { group: "الركن الشارقي", name: "Sharky", imgUrl: "./images/eastFood.png" },
+    {
+      group: "الركن الشارقي",
+      name: "Sharky",
+      imgUrl: "./images/eastFood.png",
+      pageNum: 4,
+    },
   ];
 
-  
   let htmlTagsContainer = "";
 
-  for (const { group, name, imgUrl } of categories) {
+  for (const { group, name, imgUrl, pageNum } of categories) {
     const items = allData.Sheet1.filter((element) => element.group === group);
 
     const itemRows = items.map(
@@ -66,7 +73,9 @@ async function getData() {
                 <div class="cardContainer">
                 ${itemRows.join("")}
                 </div>
+                <div class="pageNumber"><span>${pageNum}</span></div>
               </div>
+              
             </div>
           </div>
     `;

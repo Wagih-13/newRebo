@@ -17,18 +17,20 @@ async function getData() {
       group: "اضافات - ADDITIONS",
       name: "Drink aditions",
       imgUrl: "./images/iceCreem.png",
+      pageNum: 1,
     },
 
     {
       group: "الشاي والاعشاب - TEA AND HERBS",
       name: "Drinks",
       imgUrl: "./images/drinks.png",
+      pageNum: 2,
     },
   ];
 
   let htmlTagsContainer = "";
 
-  for (const { group, name, imgUrl } of categories) {
+  for (const { group, name, imgUrl, pageNum } of categories) {
     const items = allData.Sheet1.filter((element) => element.group === group);
 
     const itemRows = items.map(
@@ -60,6 +62,7 @@ async function getData() {
                   <div class="cardContainer">
                   ${itemRows.join("")}
                   </div>
+                  <div class="pageNumber"><span>${pageNum}</span></div>
                 </div>
               </div>
             </div>

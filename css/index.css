@@ -85,41 +85,39 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 20px 20px;
+  padding: 15px 20px;
   gap: 10px;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
-  background-image: url("../images/leaf-1.jpg");
   background-position: center;
   background-size: cover;
   animation: upDown 1.7s linear infinite;
   -webkit-animation: upDown 1.7s linear infinite;
-  box-shadow: 0px 0px 8px 2px rgb(201, 200, 200);
   width: 20%;
 }
 
 .home .linksBotton > a:first-child {
-  background-image: url("../images/restaurant.jpg");
+  background-image: linear-gradient(50deg, #6dad86 10%, #385a2a 100%);
 }
 
 .home .linksBotton > a:last-child {
-  background-image: url("../images/Café.jpg");
+  background-image: linear-gradient(200deg, #6dad86 10%, #385a2a 100%);
 }
 
 .home .linksBotton > a div {
   color: #ffffff;
   font-weight: bold;
   font-size: 30px;
-  text-shadow: 1px 1px 5px black, 0 0 25px hsl(97, 18%, 69%);
+  text-shadow: 1px 1px 5px rgb(31, 31, 31), 0 0 25px hsl(97, 18%, 69%);
 }
 .home .linksBotton > a i {
   color: #ffffff;
   font-weight: bold;
   font-size: 45px;
-  text-shadow: 1px 1px 10px black, 0 0 25px hsl(97, 18%, 69%);
+  text-shadow: 1px 1px 10px rgb(36, 36, 36), 0 0 25px hsl(97, 18%, 69%);
 }
 
 @keyframes upDown {
